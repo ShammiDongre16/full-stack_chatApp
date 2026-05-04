@@ -1,3 +1,6 @@
+# Kubernetes secrets (NEVER commit sensitive data!)
+k8s/secrets.yml
+
 # Logs
 logs
 *.log
